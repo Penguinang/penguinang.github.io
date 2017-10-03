@@ -5,7 +5,7 @@
   <link href="//atom.xml" rel="self"/>
   
   <link href="https://penguinang.github.io/"/>
-  <updated>2017-08-09T08:32:33.075Z</updated>
+  <updated>2017-10-03T08:23:39.057Z</updated>
   <id>https://penguinang.github.io/</id>
   
   <author>
@@ -14,6 +14,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://penguinang.github.io/2017/10/03/test/"/>
+    <id>https://penguinang.github.io/2017/10/03/test/</id>
+    <published>2017-10-03T08:23:39.000Z</published>
+    <updated>2017-10-03T08:23:39.057Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>first blog</title>
