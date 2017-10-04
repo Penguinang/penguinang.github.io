@@ -5,7 +5,7 @@
   <link href="//atom.xml" rel="self"/>
   
   <link href="https://penguinang.github.io/"/>
-  <updated>2017-10-04T09:10:29.389Z</updated>
+  <updated>2017-10-04T10:20:58.206Z</updated>
   <id>https://penguinang.github.io/</id>
   
   <author>
@@ -16,25 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="https://penguinang.github.io/2017/10/04/index/"/>
-    <id>https://penguinang.github.io/2017/10/04/index/</id>
-    <published>2017-10-04T09:10:29.389Z</published>
-    <updated>2017-10-04T09:10:29.389Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>部署本地已经生成的Hexo博客到服务器记录</title>
     <link href="https://penguinang.github.io/2017/10/04/%E6%88%90%E5%8A%9F%E9%83%A8%E7%BD%B2%E5%88%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%AE%B0%E5%BD%95/"/>
     <id>https://penguinang.github.io/2017/10/04/成功部署到服务器记录/</id>
     <published>2017-10-04T08:34:05.000Z</published>
-    <updated>2017-10-04T10:12:24.830Z</updated>
+    <updated>2017-10-04T10:20:58.206Z</updated>
     
     <content type="html"><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>最近用github学生优惠租了DigitalOcean的一个vps服务器，开始学习使用服务器。想起来当初用github平台搭建的Hexo博客，决定将Hexo博客为自己的服务器部署一份。本博客记录整个部署已经成功生成的本地Hexo博客部署到Nginx服务器的过程。本人技术尚浅，有不正确之处欢迎指正。</p>
 <h3 id="1-安装Nginx"><a href="#1-安装Nginx" class="headerlink" title="1.安装Nginx"></a>1.安装Nginx</h3><p>我使用的是Ubuntu的服务器系统，所以直接<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">sudo apt-get install nginx</div></pre></td></tr></table></figure></p>
