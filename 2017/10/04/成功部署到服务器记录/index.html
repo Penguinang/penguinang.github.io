@@ -23,7 +23,7 @@
 <meta property="og:site_name" content="杨蓬博的博客">
 <meta property="og:description" content="前言最近用github学生优惠租了DigitalOcean的一个vps服务器，开始学习使用服务器。想起来当初用github平台搭建的Hexo博客，决定将Hexo博客为自己的服务器部署一份。本博客记录整个部署已经成功生成的本地Hexo博客部署到Nginx服务器的过程。本人技术尚浅，有不正确之处欢迎指正。 1.安装Nginx我使用的是Ubuntu的服务器系统，所以直接1sudo apt-get ins">
 <meta property="og:locale" content="zh-CN">
-<meta property="og:updated_time" content="2017-10-04T10:20:58.206Z">
+<meta property="og:updated_time" content="2017-10-09T01:59:06.616Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="部署本地已经生成的Hexo博客到服务器记录">
 <meta name="twitter:description" content="前言最近用github学生优惠租了DigitalOcean的一个vps服务器，开始学习使用服务器。想起来当初用github平台搭建的Hexo博客，决定将Hexo博客为自己的服务器部署一份。本博客记录整个部署已经成功生成的本地Hexo博客部署到Nginx服务器的过程。本人技术尚浅，有不正确之处欢迎指正。 1.安装Nginx我使用的是Ubuntu的服务器系统，所以直接1sudo apt-get ins">
@@ -281,9 +281,9 @@ ga('send', 'pageview');
 <li>修改本机Hexo配置文件，命令：<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">先进入Hexo根目录，这个因机器而异</div><div class="line">vim _config.yml</div></pre></td></tr></table></figure>
 </li>
 </ol>
-<p>找到deploy项，将repo改为<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">git@138.68.18.64:/home/~/blog/blog.git</div></pre></td></tr></table></figure></p>
+<p>找到deploy项，将repo改为<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">git@***.***.***.***:/home/~/blog/blog.git</div></pre></td></tr></table></figure></p>
 <p>我这里用了ip地址，也可以修改为域名。<code>~</code>还是要修改为对应用户名。如果需要部署到多个网站，如既部署到自己的服务器，又部署到github，则可以改为:</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">repo:</div><div class="line">    自己的网站名字: git@138.68.18.64:/home/~/blog/blog.git</div><div class="line">    github: git@github.com:penguinang/penguinang.github.io.git</div></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">repo:</div><div class="line">    自己的网站名字: git@***.***.***.***:/home/~/blog/blog.git</div><div class="line">    github: git@github.com:penguinang/penguinang.github.io.git</div></pre></td></tr></table></figure>
 <ol>
 <li><code>hexo d</code>，部署<br>到此，部署到服务器上就完成了。</li>
 </ol>
