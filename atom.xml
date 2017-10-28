@@ -5,7 +5,7 @@
   <link href="//atom.xml" rel="self"/>
   
   <link href="https://penguinang.github.io/"/>
-  <updated>2017-10-09T01:59:06.616Z</updated>
+  <updated>2017-10-28T05:16:01.284Z</updated>
   <id>https://penguinang.github.io/</id>
   
   <author>
@@ -14,6 +14,50 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>延长游戏寿命的几种模式</title>
+    <link href="https://penguinang.github.io/2017/10/28/%E5%BB%B6%E9%95%BF%E6%B8%B8%E6%88%8F%E5%AF%BF%E5%91%BD%E7%9A%84%E5%87%A0%E7%A7%8D%E6%A8%A1%E5%BC%8F/"/>
+    <id>https://penguinang.github.io/2017/10/28/延长游戏寿命的几种模式/</id>
+    <published>2017-10-28T05:15:12.000Z</published>
+    <updated>2017-10-28T05:16:01.284Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="延长单机游戏寿命的几种模式"><a href="#延长单机游戏寿命的几种模式" class="headerlink" title="延长单机游戏寿命的几种模式"></a>延长单机游戏寿命的几种模式</h2><blockquote>
+<p>游戏寿命的本质还是取决于游戏的内容，质量和玩家体验，但是有一些额外的模式可以延长游戏寿命</p>
+</blockquote>
+<h4 id="0-成就系统（评价系统）"><a href="#0-成就系统（评价系统）" class="headerlink" title="0. 成就系统（评价系统）"></a>0. 成就系统（评价系统）</h4><p>在游戏中添加成就系统，在某种程度上类似于任务，使玩家为了达成成就获取奖励或者成就感，不断挑战更高难度。</p>
+<blockquote>
+<p>关键词: <em>神庙逃亡</em> , <em>水果忍者</em> </p>
+</blockquote>
+<h4 id="1-DLC-amp-MOD"><a href="#1-DLC-amp-MOD" class="headerlink" title="1.  DLC &amp; MOD"></a>1.  DLC &amp; MOD</h4><p>DLC的全称是Downloadable Content，MOD的是Modification的缩写，两者都是指对于游戏本体一些增加的额外部分，内容可能有地图，关卡，战役，人物，道具等。区别在于DLC是由游戏厂商发行，MOD一般是由玩家制作。<br>DlC有收费和免费之分，许多收费的DLC被认为是游戏公司为了圈钱而出，但是从事实上为游戏公司带来了大量收入</p>
+<blockquote>
+<p>关键词： <em>上古卷轴5</em> , <em>帝国时代2</em> ， <em>地图编辑器</em></p>
+</blockquote>
+<h4 id="2-多人游戏"><a href="#2-多人游戏" class="headerlink" title="2. 多人游戏"></a>2. 多人游戏</h4><p>单机游戏在加入多人模式，后会使得游戏的玩法更加丰富，也有可能会吸引到已经对游戏感到无聊的玩家回归。玩家在完了游戏之后，还有可能让别人购买游戏以便一起玩游戏。</p>
+<blockquote>
+<p>关键词: <em>使命召唤系列</em> ， <em>魔兽争霸系列</em></p>
+</blockquote>
+<h4 id="3-二周目"><a href="#3-二周目" class="headerlink" title="3. 二周目"></a>3. 二周目</h4><p>二周目是指在通关游戏一次之后，从头开始。二周目与一周目的不同，主要会在一些游戏道具，经验值，难度，隐藏难度，隐藏剧情等方面。一些游戏的二周目还会有继承，即一周目中获得的装备物品会在二周目中留下来。与之类似的还有三周目，四周目等等。应用这些会使得玩家明显增加玩游戏的时间，以及对游戏的兴趣。</p>
+<blockquote>
+<p>关键词: <em>鬼泣</em> ， <em>魂斗罗</em> ， <em>黑魂</em></p>
+</blockquote>
+<h4 id="4-多种剧情，多种角色"><a href="#4-多种剧情，多种角色" class="headerlink" title="4. 多种剧情，多种角色"></a>4. 多种剧情，多种角色</h4><p>游戏中有选择剧情的部分，使得玩家为了体验所有剧情，必须多次通关，或者至少在关键节点保存后重复打某一个关卡。多种角色，体验不同职业的新鲜感和技能。类似于多周目。</p>
+<blockquote>
+<p>关键词: <em>文字冒险游戏</em> , <em>黑魂</em> ， <em>质量效应</em></p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;延长单机游戏寿命的几种模式&quot;&gt;&lt;a href=&quot;#延长单机游戏寿命的几种模式&quot; class=&quot;headerlink&quot; title=&quot;延长单机游戏寿命的几种模式&quot;&gt;&lt;/a&gt;延长单机游戏寿命的几种模式&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;游戏寿命的本质还是取决于游
+    
+    </summary>
+    
+    
+      <category term="游戏" scheme="https://penguinang.github.io/tags/%E6%B8%B8%E6%88%8F/"/>
+    
+  </entry>
   
   <entry>
     <title>部署本地已经生成的Hexo博客到服务器记录</title>
